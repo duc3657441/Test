@@ -55,3 +55,4 @@ D:\Code\VisualStudioCode2022\WorkSpace\ConsoleApp(.Net)\Test\bin\Debug\net8.0\ru
 D:\Code\VisualStudioCode2022\WorkSpace\ConsoleApp(.Net)\Test\bin\Debug\net8.0\runtimes\linux-x64\native\libtensorflow_framework.so.1
 D:\Code\VisualStudioCode2022\WorkSpace\ConsoleApp(.Net)\Test\bin\Debug\net8.0\runtimes\osx-x64\native\libtensorflow.dylib
 D:\Code\VisualStudioCode2022\WorkSpace\ConsoleApp(.Net)\Test\bin\Debug\net8.0\runtimes\osx-x64\native\libtensorflow_framework.1.dylib
+D:\Code\VisualStudioCode2022\WorkSpace\ConsoleApp(.Net)\Test\obj\Debug\net8.0\Test.sourcelink.json
